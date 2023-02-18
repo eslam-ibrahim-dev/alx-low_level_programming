@@ -1,5 +1,5 @@
 #include <stdio.h>
-<**
+/**
  * main - A program that print a line with put function 
  * Retrun: 0 (success)
  */
